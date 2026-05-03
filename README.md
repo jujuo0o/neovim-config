@@ -2,11 +2,13 @@
 My personal neovim config files; ready to be used; just pull the configuration to the nvim config folder and use the editor without any extra hassle.
 
 ### Key Bindings
->Navigation
+<b>Navigation</b>
 `Ctrl + Arrow Left/Right/Up/Down` - Move between the NerdTree explorer and the editor.
->Explorer
+
+<b>Explorer</b>
 Use `a/d/r` to Add/Delete/Rename files
->Editor
+
+<b>Editor</b>
 1. `tab` to auto fill/accept lsp suggestions.
 2. `Alt + w` exit the current file.
 3. `Alt + l/h` move around the active files.
